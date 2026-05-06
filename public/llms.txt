@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://example.com
+https://am-metal-scrap-ltd.zappy5.app
 חברה ישראלית לקניית ברזל, מיחזור מתכות ופינוי פסולת תעשייתית. שירות מהיר תוך 24 שעות, תשלום מזומן מיידי, כיסוי במרכז ובשפלה. 10+ שנות ניסיון.
 
 ### חומרים
-https://example.com/materials
+https://am-metal-scrap-ltd.zappy5.app/materials
 א.מ פסולת מתכות קונה ברזל, נחושת, אלומיניום, נירוסטה, פסולת אלקטרונית, כלי רכב ופסולת בנייה. תשלום מזומן מיידי, איסוף תוך 24 שעות במרכז ובשפלה. קבלו הצעת מחיר עכשיו!
 
 ### פרטיות
-https://example.com/privacy
+https://am-metal-scrap-ltd.zappy5.app/privacy
 פרטיות | א.מ פסולת מתכות בע&quot;מ (A.M Metal Scarp Ltd.). ewaste recycling near me
 
 ### תנאים
-https://example.com/terms
+https://am-metal-scrap-ltd.zappy5.app/terms
 תנאים | א.מ פסולת מתכות בע&quot;מ (A.M Metal Scarp Ltd.). ewaste recycling near me
 
 ### ניהול
-https://example.com/admin
+https://am-metal-scrap-ltd.zappy5.app/admin
 מערכת ניהול פנימית של א.מ פסולת מתכות. גישה לצוות החברה בלבד.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://am-metal-scrap-ltd.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://am-metal-scrap-ltd.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://am-metal-scrap-ltd.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -50,8 +50,8 @@ Information about WCAG compliance and accessibility features.
 - Address: ישראל, קריית גת, השפלה
 
 ### Contact form
-- URL: https://example.com
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://am-metal-scrap-ltd.zappy5.app
+- Endpoint: https://am-metal-scrap-ltd.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -83,6 +83,6 @@ Metal recycling / Waste management / Industrial scrap
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://am-metal-scrap-ltd.zappy5.app/sitemap.xml
+- Robots: https://am-metal-scrap-ltd.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://am-metal-scrap-ltd.zappy5.app/llms-full.txt
