@@ -44,7 +44,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: A.M Metal Scarp@eco.com
+- Phone: +9725555555555
+- Phone (tel): tel:+9725555555555
+- Address: ישראל, קריית גת, השפלה
 
 ### Contact form
 - URL: https://example.com

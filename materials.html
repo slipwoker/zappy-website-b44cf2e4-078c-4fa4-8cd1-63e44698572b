@@ -407,7 +407,7 @@
     </svg>
   </button>
 
-  <button class="phone-header-btn" data-phone="+972-00-000-0000" aria-label="Call">
+  <button class="phone-header-btn" data-phone="+9725555555555" aria-label="Call">
     <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
       <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
     </svg>
@@ -810,7 +810,7 @@
         const phoneLinks = document.querySelectorAll('a[href^="tel:"]');
         const phoneNumber = phoneLinks.length > 0 
           ? phoneLinks[0].getAttribute('href').replace('tel:', '')
-          : '[business_phone]';
+          : '+9725555555555';
         
         window.location.href = 'tel:' + phoneNumber;
         console.log('[Navbar] Phone button clicked');
@@ -1207,7 +1207,7 @@
         <i class="fas fa-file-invoice"></i>
         בקשו הצעת מחיר עכשיו
       </a>
-      <a href="tel:[business_phone]" class="materials-cta-btn-secondary" data-element-type="button" data-element-id="btn-1778061595520-ail6o7cd1" data-native-element="true">
+      <a href="tel:+9725555555555" class="materials-cta-btn-secondary" data-element-type="button" data-element-id="btn-1778061595520-ail6o7cd1" data-native-element="true">
         <i class="fas fa-phone"></i>
         התקשרו ישירות
       </a>
@@ -1232,9 +1232,9 @@
         </div>
         <p class="footer-tagline" >מיחזור מתכות תעשייתי ברמה הגבוהה ביותר מהיר, שקוף ומקצועי לאורך כל הדרך.</p>
         <div class="footer-social">
-          <a href="[facebook_handle]" aria-label="Facebook" class="social-link"><i class="fab fa-facebook-f"></i></a>
-          <a href="[instagram_handle]" aria-label="Instagram" class="social-link"><i class="fab fa-instagram" data-element-type="icon" data-element-id="icon-1778061595526-sedoak6i1" data-icon-type="fontawesome"></i></a>
-          <a href="[whatsapp_handle]" aria-label="WhatsApp" class="social-link"><i class="fab fa-whatsapp" data-element-type="icon" data-element-id="icon-1778061595526-wd47xyj42" data-icon-type="fontawesome"></i></a>
+          <a href="#" aria-label="Facebook" class="social-link" style="display:none !important;"><i class="fab fa-facebook-f"></i></a>
+          <a href="#" aria-label="Instagram" class="social-link" style="display:none !important;"><i class="fab fa-instagram" data-element-type="icon" data-element-id="icon-1778061595526-sedoak6i1" data-icon-type="fontawesome"></i></a>
+          <a href="#" aria-label="WhatsApp" class="social-link" style="display:none !important;"><i class="fab fa-whatsapp" data-element-type="icon" data-element-id="icon-1778061595526-wd47xyj42" data-icon-type="fontawesome"></i></a>
         </div>
       </div>
 
@@ -1256,14 +1256,14 @@
         <ul class="footer-contact">
           <li>
             <span class="contact-icon"><i class="fas fa-envelope" data-element-type="icon" data-element-id="icon-1778061595526-u9dbt75rr" data-icon-type="fontawesome"></i></span>
-            <span class="contact-text"><a href="mailto:[business_email]">[business_email]</a></span>
+            <span class="contact-text"><a href="mailto:A.M Metal Scarp@eco.com">A.M Metal Scarp@eco.com</a></span>
           </li>
           <li>
             <span class="contact-icon"><i class="fas fa-phone" data-element-type="icon" data-element-id="icon-1778061595526-hcsa7zdcu" data-icon-type="fontawesome"></i></span>
-            <span class="contact-text"><a href="tel:[business_phone]">[business_phone]</a></span>
+            <span class="contact-text"><a href="tel:+9725555555555">+9725555555555</a></span>
           </li>
           <li><a href="/"><span class="contact-icon"><i class="fas fa-map-marker-alt"></i></span>
-            <span class="contact-text">[business_address]</span></a></li>
+            <span class="contact-text">ישראל, קריית גת, השפלה</span></a></li>
         </ul>
       </div>
 
