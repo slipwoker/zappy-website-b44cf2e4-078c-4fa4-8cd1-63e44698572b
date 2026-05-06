@@ -2,13 +2,13 @@
 
 A.M Metal Waste Ltd. is an Israeli industrial scrap and recycling company with 10+ years of experience, projecting a premium tech-industrial brand identity that blends heavy-duty recycling with a sleek, modern SpaceX-like aesthetic. The brand emphasizes speed (24-hour pickup), fairness (transparent cash payments), and nationwide reach across all of Israel. The visual identity is dark, authoritative, and metallic — using deep navy, electric green glows, and circuit-board motifs to elevate a traditionally blue-collar industry into a sophisticated, trustworthy operation. The site is fully in Hebrew (RTL) and targets construction contractors, factories, and businesses seeking professional scrap removal with immediate payment.
 
-Source: https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app
+Source: https://example.com
 
 ---
 
 ## ewaste recycling near me — א.מ פסולת מתכות בע&quot;מ (A.M Metal S
 
-URL: https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app
+URL: https://example.com
 Description: A.M Metal Waste Ltd. is an Israeli industrial scrap and recycling company with 10+ years of experience, projecting a premium tech-industrial brand identity that
 
 ewaste recycling near me — א.מ פסולת מתכות בע"מ (A.M Metal S
@@ -872,7 +872,7 @@ ewaste recycling near me — א.מ פסולת מתכות בע"מ (A.M Metal S
 
 ## חומרים — א.מ פסולת מתכות בע&quot;מ (A.M Metal Scarp Ltd.)
 
-URL: https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app/materials
+URL: https://example.com/materials
 Description: חומרים | א.מ פסולת מתכות בע&quot;מ (A.M Metal Scarp Ltd.). ewaste recycling near me
 
 חומרים — א.מ פסולת מתכות בע"מ (A.M Metal Scarp Ltd.)
@@ -1440,7 +1440,7 @@ Description: חומרים | א.מ פסולת מתכות בע&quot;מ (A.M Metal 
 
 ## פרטיות — א.מ פסולת מתכות בע&quot;מ (A.M Metal Scarp Ltd.)
 
-URL: https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: פרטיות | א.מ פסולת מתכות בע&quot;מ (A.M Metal Scarp Ltd.). ewaste recycling near me
 
 פרטיות — א.מ פסולת מתכות בע"מ (A.M Metal Scarp Ltd.)
@@ -1905,7 +1905,7 @@ Description: פרטיות | א.מ פסולת מתכות בע&quot;מ (A.M Metal 
 
 ## תנאים — א.מ פסולת מתכות בע&quot;מ (A.M Metal Scarp Ltd.)
 
-URL: https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאים | א.מ פסולת מתכות בע&quot;מ (A.M Metal Scarp Ltd.). ewaste recycling near me
 
 תנאים — א.מ פסולת מתכות בע"מ (A.M Metal Scarp Ltd.)
@@ -2346,7 +2346,7 @@ Description: תנאים | א.מ פסולת מתכות בע&quot;מ (A.M Metal Sc
 
 ## ניהול — א.מ פסולת מתכות בע&quot;מ (A.M Metal Scarp Ltd.)
 
-URL: https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app/admin
+URL: https://example.com/admin
 Description: ניהול | א.מ פסולת מתכות בע&quot;מ (A.M Metal Scarp Ltd.). ewaste recycling near me
 
 ניהול — א.מ פסולת מתכות בע"מ (A.M Metal Scarp Ltd.)
@@ -3001,7 +3001,7 @@ C005
 
 ## מדיניות פרטיות
 
-URL: https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -3268,7 +3268,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -3544,7 +3544,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש

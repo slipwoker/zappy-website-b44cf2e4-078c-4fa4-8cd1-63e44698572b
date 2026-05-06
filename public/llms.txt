@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app
+https://example.com
 A.M Metal Waste Ltd. is an Israeli industrial scrap and recycling company with 10+ years of experience, projecting a premium tech-industrial brand identity that
 
 ### חומרים
-https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app/materials
+https://example.com/materials
 חומרים | א.מ פסולת מתכות בע&quot;מ (A.M Metal Scarp Ltd.). ewaste recycling near me
 
 ### פרטיות
-https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app/privacy
+https://example.com/privacy
 פרטיות | א.מ פסולת מתכות בע&quot;מ (A.M Metal Scarp Ltd.). ewaste recycling near me
 
 ### תנאים
-https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app/terms
+https://example.com/terms
 תנאים | א.מ פסולת מתכות בע&quot;מ (A.M Metal Scarp Ltd.). ewaste recycling near me
 
 ### ניהול
-https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app/admin
+https://example.com/admin
 ניהול | א.מ פסולת מתכות בע&quot;מ (A.M Metal Scarp Ltd.). ewaste recycling near me
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app
-- Endpoint: https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app/api/email/contact-form
+- URL: https://example.com
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -80,6 +80,6 @@ Metal recycling / Waste management / Industrial scrap
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app/sitemap.xml
-- Robots: https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt

@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app</loc>
+    <loc>https://example.com</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app/materials</loc>
+    <loc>https://example.com/materials</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app/privacy</loc>
+    <loc>https://example.com/privacy</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app/terms</loc>
+    <loc>https://example.com/terms</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app/admin</loc>
+    <loc>https://example.com/admin</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app/privacy</loc>
+    <loc>https://example.com/privacy</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app/terms</loc>
+    <loc>https://example.com/terms</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app/accessibility</loc>
+    <loc>https://example.com/accessibility</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
