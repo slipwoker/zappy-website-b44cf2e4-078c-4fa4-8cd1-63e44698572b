@@ -1,0 +1,85 @@
+# א.מ פסולת מתכות בע"מ (A.M Metal Scarp Ltd.) — Generative Engine Optimization Map
+
+> A.M Metal Waste Ltd. is an Israeli industrial scrap and recycling company with 10+ years of experience, projecting a premium tech-industrial brand identity that blends heavy-duty recycling with a sleek, modern SpaceX-like aesthetic. The brand emphasizes speed (24-hour pickup), fairness (transparent cash payments), and nationwide reach across all of Israel. The visual identity is dark, authoritative, and metallic — using deep navy, electric green glows, and circuit-board motifs to elevate a traditionally blue-collar industry into a sophisticated, trustworthy operation. The site is fully in Hebrew (RTL) and targets construction contractors, factories, and businesses seeking professional scrap removal with immediate payment.
+
+---
+
+## Pages
+
+### בית
+https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app
+A.M Metal Waste Ltd. is an Israeli industrial scrap and recycling company with 10+ years of experience, projecting a premium tech-industrial brand identity that
+
+### חומרים
+https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app/materials
+חומרים | א.מ פסולת מתכות בע&quot;מ (A.M Metal Scarp Ltd.). ewaste recycling near me
+
+### פרטיות
+https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app/privacy
+פרטיות | א.מ פסולת מתכות בע&quot;מ (A.M Metal Scarp Ltd.). ewaste recycling near me
+
+### תנאים
+https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app/terms
+תנאים | א.מ פסולת מתכות בע&quot;מ (A.M Metal Scarp Ltd.). ewaste recycling near me
+
+### ניהול
+https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app/admin
+ניהול | א.מ פסולת מתכות בע&quot;מ (A.M Metal Scarp Ltd.). ewaste recycling near me
+
+## Legal & Policy
+
+### Privacy Policy
+https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app
+- Endpoint: https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About א.מ פסולת מתכות בע"מ (A.M Metal Scarp Ltd.)
+A.M Metal Waste Ltd. is an Israeli industrial scrap and recycling company with 10+ years of experience, projecting a premium tech-industrial brand identity that blends heavy-duty recycling with a sleek, modern SpaceX-like aesthetic. The brand emphasizes speed (24-hour pickup), fairness (transparent cash payments), and nationwide reach across all of Israel. The visual identity is dark, authoritative, and metallic — using deep navy, electric green glows, and circuit-board motifs to elevate a traditionally blue-collar industry into a sophisticated, trustworthy operation. The site is fully in Hebrew (RTL) and targets construction contractors, factories, and businesses seeking professional scrap removal with immediate payment.
+
+## Target Audience
+- Construction contractors, manufacturing companies, logistics managers, businesses with old equipment, and individuals across Israel
+- קבלני בניין גדולים
+- חברות ייצור תעשייתיות
+- מנהלי לוגיסטיקה ואחזקה
+- עסקים עם ציוד מיושן
+- אנשים פרטיים עם פסולת בקנה מידה גדול
+
+## Industry
+Metal recycling / Waste management / Industrial scrap
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app/sitemap.xml
+- Robots: https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://a-m-metal-scarp-ltd-b44cf2e4.zappy5.app/llms-full.txt
