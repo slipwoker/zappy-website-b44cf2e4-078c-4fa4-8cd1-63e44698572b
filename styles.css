@@ -9642,6 +9642,17 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
   0%, 100% { opacity: 0.5; }
   50% { opacity: 1; }
 }
+
+.index-process-section .index-process-section__step-points {
+  margin-top: auto;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+}
+
+.index-process-section .index-process-section__step-points li {
+  justify-content: center;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
