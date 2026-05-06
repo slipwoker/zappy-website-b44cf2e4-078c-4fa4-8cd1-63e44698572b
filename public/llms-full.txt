@@ -6,12 +6,12 @@ Source: https://example.com
 
 ---
 
-## ewaste recycling near me — א.מ פסולת מתכות בע&quot;מ (A.M Metal S
+## א.מ פסולת מתכות בע"מ | קניית ברזל ומיחזור מתכות – תשלום מזומן מיידי
 
 URL: https://example.com
-Description: A.M Metal Waste Ltd. is an Israeli industrial scrap and recycling company with 10+ years of experience, projecting a premium tech-industrial brand identity that
+Description: חברה ישראלית לקניית ברזל, מיחזור מתכות ופינוי פסולת תעשייתית. שירות מהיר תוך 24 שעות, תשלום מזומן מיידי, כיסוי במרכז ובשפלה. 10+ שנות ניסיון.
 
-ewaste recycling near me — א.מ פסולת מתכות בע"מ (A.M Metal S
+א.מ פסולת מתכות בע"מ | קניית ברזל ומיחזור מתכות – תשלום מזומן מיידי
 
 
 
@@ -132,9 +132,7 @@ ewaste recycling near me — א.מ פסולת מתכות בע"מ (A.M Metal S
 
 
 
-###
-
-## איסוף מתכות, ציוד אלקטרוני ופסולת בנייה במרכז ובשפלה.
+### איסוף מתכות, ציוד אלקטרוני ופסולת בנייה במרכז ובשפלה.
 
 תוך 24 שעות שקוף, מקצועי ומשתלם.
 
@@ -889,12 +887,12 @@ ewaste recycling near me — א.מ פסולת מתכות בע"מ (A.M Metal S
 
 ---
 
-## חומרים — א.מ פסולת מתכות בע&quot;מ (A.M Metal Scarp Ltd.)
+## חומרים שאנו קונים | קניית מתכות, ברזל, נחושת ואלומיניום – א.מ פסולת מתכות
 
 URL: https://example.com/materials
-Description: חומרים | א.מ פסולת מתכות בע&quot;מ (A.M Metal Scarp Ltd.). ewaste recycling near me
+Description: א.מ פסולת מתכות קונה ברזל, נחושת, אלומיניום, נירוסטה, פסולת אלקטרונית, כלי רכב ופסולת בנייה. תשלום מזומן מיידי, איסוף תוך 24 שעות במרכז ובשפלה. קבלו הצעת מחיר עכשיו!
 
-חומרים — א.מ פסולת מתכות בע"מ (A.M Metal Scarp Ltd.)
+חומרים שאנו קונים | קניית מתכות, ברזל, נחושת ואלומיניום – א.מ פסולת מתכות
 
 
 
@@ -2403,12 +2401,12 @@ Description: תנאים | א.מ פסולת מתכות בע&quot;מ (A.M Metal Sc
 
 ---
 
-## ניהול — א.מ פסולת מתכות בע&quot;מ (A.M Metal Scarp Ltd.)
+## ניהול פנימי – א.מ פסולת מתכות בע"מ
 
 URL: https://example.com/admin
-Description: ניהול | א.מ פסולת מתכות בע&quot;מ (A.M Metal Scarp Ltd.). ewaste recycling near me
+Description: מערכת ניהול פנימית של א.מ פסולת מתכות. גישה לצוות החברה בלבד.
 
-ניהול — א.מ פסולת מתכות בע"מ (A.M Metal Scarp Ltd.)
+ניהול פנימי – א.מ פסולת מתכות בע"מ
 
 
 
